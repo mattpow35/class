@@ -134,6 +134,7 @@ a:hover {
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   .page {
+    padding: 10px;
 
   }
 }
