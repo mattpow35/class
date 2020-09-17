@@ -117,6 +117,10 @@ a:hover {
   flex-wrap: wrap;
   flex-direction: row;
 }
+.contact-header {
+  display: flex;
+  justify-content: flex-start;
+}
 
 .project-list,
 .contact-list,
