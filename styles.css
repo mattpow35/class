@@ -100,6 +100,7 @@ a:hover {
 .contact-me {
   display: flex;
   flex-direction: column;
+  padding: 15px;
 }
 
 .work-experience {
@@ -116,7 +117,6 @@ a:hover {
   justify-content: space-between;
   flex-wrap: wrap;
   flex-direction: row;
-  padding: 15px;
 }
 .contact-header {
   display: flex;
